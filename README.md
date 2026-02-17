@@ -1,5 +1,3 @@
-## Sonix-J
-
 # 💫 About Me:
 Just a guy who takes his fitness and his mindset seriously. Showing up daily, leveling up quietly. Outside of that, I'm pretty lowkey — good vibes, good company, simple life.
 
