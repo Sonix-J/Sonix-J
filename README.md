@@ -20,7 +20,7 @@ Just a guy who takes his fitness and his mindset seriously. Showing up daily, le
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # Portfolio Link:
-https://sonix-j.netlify.app/
+[https://sonix-j.netlify.app/](https://sonix-j.vercel.app/)
 
 ---
 
